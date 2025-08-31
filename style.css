@@ -1,0 +1,27 @@
+h1{
+  color:green;
+}
+ul{
+  font-size: 20px;
+  color: green;
+  }
+p{
+  color: blue;
+  }
+h2{
+  color:blue;
+}
+  button{
+  font-family:'Times New Roman'bold;
+  background-color:  yellow;
+  color: black;
+  text-align: center;
+  font-size:20px;
+  display: outline-block;
+  border-radius: 50px;
+  outline-color: rgb(0,255,255);
+  box-shadow: 2px 2px 4px rgb(0,255,255);
+  cursor: pointer;
+  text-transform:uppercase;
+  padding:10;
+}
